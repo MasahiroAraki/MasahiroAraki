@@ -1,10 +1,14 @@
 ### 出版した本 📖
 
-<img src="manga.png" width=87 />
-<img src="ML2.jpg" width=80 />
-<img src="pattern2.jpg" width=80 />
-<img src="ASR.png" width=80 />
-<img src="web.png" width=80 />
+ <table>
+    <tr>
+      <td><img src="manga.png" width=87 /></td>
+      <td><img src="ML2.jpg" width=80 /></td>
+      <td><img src="pattern2.jpg" width=80 /></td>
+      <td><img src="ASR.png" width=80 /></td>
+      <td><img src="web.png" width=80 /></td>
+    </tr>
+ </table>
 
 
 <!--
