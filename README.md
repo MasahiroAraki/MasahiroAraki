@@ -1,6 +1,6 @@
 ### 出版した本 📖
 
- <table>
+ <table style="border:none;">
     <tr>
       <td><img src="manga.png" width=87 /></td>
       <td><img src="ML2.jpg" width=80 /></td>
