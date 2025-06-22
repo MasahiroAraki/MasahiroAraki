@@ -6,7 +6,7 @@
       <td><a href="https://masahiroaraki.github.io/mangaML/"><img src="manga.png" width=87 /></a></td>
       <td><a href="https://masahiroaraki.github.io/MachineLearning/"><img src="ML2.jpg" width=80 /></a></td>
       <td><a href="https://masahiroaraki.github.io/SpeechRecognition/"><img src="pattern2.jpg" width=80 /></a></td>
-      <td><a href="https://masahiroaraki.github.io/GuideToASR"/><img src="ASR.png" width=80 /></a></td>
+      <td><a href="https://masahiroaraki.github.io/GuideToASR"/><img src="ASR2.jpg" width=80 /></a></td>
       <td><img src="web.png" width=80 /></td>
     </tr>
  </table>
